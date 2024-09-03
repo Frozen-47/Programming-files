@@ -1,0 +1,1 @@
+﻿Commit on 2024-09-03 11:04:40 - fix: resolve memory leak
