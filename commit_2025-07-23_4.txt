@@ -1,0 +1,1 @@
+﻿Commit on 2025-07-23 18:07:57 - chore: update gitignore
