@@ -1,0 +1,1 @@
+﻿Commit on 2025-07-23 15:02:56 - update: optimize database queries
