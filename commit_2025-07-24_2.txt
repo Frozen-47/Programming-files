@@ -1,0 +1,1 @@
+﻿Commit on 2025-07-24 13:45:21 - feat: add search functionality
