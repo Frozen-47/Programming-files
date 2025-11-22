@@ -1,1 +1,0 @@
-﻿Commit on 2025-05-09 13:21:56 - docs: create contributing guide

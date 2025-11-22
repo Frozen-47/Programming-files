@@ -1,1 +1,0 @@
-﻿Commit on 2025-01-01 19:04:00 - refactor: improve naming conventions

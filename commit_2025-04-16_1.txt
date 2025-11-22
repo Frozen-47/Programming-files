@@ -1,1 +1,0 @@
-﻿Commit on 2025-04-16 10:11:23 - docs: write installation guide

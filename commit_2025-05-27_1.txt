@@ -1,1 +1,0 @@
-﻿Commit on 2025-05-27 17:53:51 - feat: create dashboard component

@@ -1,1 +1,0 @@
-﻿Commit on 2025-06-10 11:45:06 - fix: patch security vulnerability

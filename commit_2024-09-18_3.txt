@@ -1,1 +1,0 @@
-﻿Commit on 2024-09-18 12:39:46 - update: improve error handling

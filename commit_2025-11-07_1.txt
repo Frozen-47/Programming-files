@@ -1,1 +1,0 @@
-﻿Commit on 2025-11-07 17:20:54 - chore: configure CI/CD pipeline

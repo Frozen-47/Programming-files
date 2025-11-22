@@ -1,1 +1,0 @@
-﻿Commit on 2024-10-03 22:51:23 - fix: correct responsive layout

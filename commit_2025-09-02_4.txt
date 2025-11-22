@@ -1,1 +1,0 @@
-﻿Commit on 2025-09-02 10:43:34 - fix: handle null pointer exception
