@@ -81,8 +81,7 @@ git push origin Sabareesh
 
 ## 💻 Languages Supported
 
-- **C** (Standard C99 / C11)
-- **C++** (Modern C++11 / C++17)
-- **Java** (JDK 8 / JDK 17)
+- **C, C++, and Java** (Current primary directories)
+- **All Languages Supported**: This repository is open to **any** programming language! Students are welcome to organize and practice in Python, JavaScript, Go, or any other language of their choice.
 
 ⚓ *Happy Coding! May your branches be clean and your compilations successful.*
